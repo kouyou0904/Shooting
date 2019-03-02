@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\智矢\desktop\yuzawagame\main.cpp(56): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  yuzawagame.vcxproj -> C:\Users\智矢\Desktop\yuzawagame\x64\Debug\yuzawagame.exe
+  yuzawagame.vcxproj -> C:\Users\智矢\Desktop\yuzawagame\x64\Debug\yuzawagame.pdb (Partial PDB)
